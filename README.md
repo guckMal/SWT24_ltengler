@@ -1,2 +1,2 @@
 # SWT24_ltengler
-Softwaretechnik Hausaufgaben-Repository mit Annaa
+Softwaretechnik Hausaufgaben-Repository mit Anna
